@@ -2,7 +2,7 @@
 A Tool For Termux Users To Apply And Test 100 Cross Site Scripting Payload On A Url
 
 
-Usage :-
+Usage :- \n
 apt upgrade 
 apt update 
 pkg install python
