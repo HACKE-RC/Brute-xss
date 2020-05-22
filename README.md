@@ -7,8 +7,8 @@ apt upgrade
 apt update 
 pkg install python
 pkg install git
-git clone https://github.com/Brute-xss
-cd brute-xss
+git clone https://github.com/HACKE-RC/Brute-xss
+cd Brute-xss
 python brute.py
 
 Requirements :-
